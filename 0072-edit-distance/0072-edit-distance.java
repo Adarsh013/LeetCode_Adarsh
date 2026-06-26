@@ -5,29 +5,21 @@ class Solution {
 
         int dp[][] = new int[n + 1][m + 1];
 
-        for(int i[] : dp){
-            Arrays.fill(i, -1);
+        for(int i = 0; i<=n; i++) dp[i][0] = i;
+        for(int j = 0; j<=m; j++) dp[0][j] = j;
+
+        for(int i = 1; i<=n; i++){
+            for(int j = 1; j<=m; j++){
+                
+                if(word1.charAt(i - 1) == word2.charAt(j - 1))
+                dp[i][j] = 0 + dp[i - 1][j - 1];
+                
+                else
+                    dp[i][j] = Math.min(1 + dp[i][j-1], // Insert
+                        Math.min(1 + dp[i - 1][j], // Delete
+                        1 + dp[i - 1][j - 1])); // Replace
+            }
         }
-
-        return helper(n-1, m-1, word1, word2, dp);
-    }
-
-    private int helper(int i, int j, String word1, String word2, int[][] dp){
-        // Base cases
-
-        // word2 is exhausted -> We must delete all remaining characters of word1.
-        if(j < 0) return i+1;
-
-        /// word1 is exhausted -> We must insert all remaining characters of word2.
-        if(i < 0) return j+1;
-
-        if(dp[i][j] != -1) return dp[i][j];
-
-        if(word1.charAt(i) == word2.charAt(j))
-            return dp[i][j] = 0 + helper(i - 1, j - 1, word1, word2, dp);
-        
-        return dp[i][j] = Math.min(1 + helper(i, j-1, word1, word2, dp), // Insert
-            Math.min(1 + helper(i - 1, j, word1, word2, dp), // Delete
-                     1 + helper(i - 1, j - 1, word1, word2, dp))); // Replace
+        return dp[n][m];
     }
 }
