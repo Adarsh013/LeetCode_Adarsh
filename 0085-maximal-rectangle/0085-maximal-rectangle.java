@@ -19,10 +19,7 @@ class Solution {
                     heights[col] = 0;
             }
 
-            maxArea = Math.max(
-                maxArea,
-                largestRectangleArea(heights)
-            );
+            maxArea = Math.max( maxArea, largestRectangleArea(heights) );
         }
 
         return maxArea;
@@ -37,23 +34,17 @@ class Solution {
 
         for(int i = 0; i <= n; i++) {
 
-            while(!st.isEmpty() &&
-                  (i == n ||
-                   heights[st.peek()] >= heights[i])) {
+            while(!st.isEmpty() && (i == n || heights[st.peek()] >= heights[i])) {
 
                 int height = heights[st.pop()];
 
                 int rightSmall = i;
 
-                int leftSmall =
-                    st.isEmpty() ? -1 : st.peek();
+                int leftSmall = st.isEmpty() ? -1 : st.peek();
 
-                int width =
-                    rightSmall - leftSmall - 1;
+                int width = rightSmall - leftSmall - 1;
 
-                maxArea =
-                    Math.max(maxArea,
-                             height * width);
+                maxArea = Math.max(maxArea, height * width);
             }
 
             st.push(i);
