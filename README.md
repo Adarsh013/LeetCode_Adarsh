@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0583-delete-operation-for-two-strings) |
 | [1048-longest-string-chain](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1092-shortest-common-supersequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Backtracking
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0583-delete-operation-for-two-strings) |
 | [1048-longest-string-chain](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1092-shortest-common-supersequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Greedy
 |  |
 | ------- |
