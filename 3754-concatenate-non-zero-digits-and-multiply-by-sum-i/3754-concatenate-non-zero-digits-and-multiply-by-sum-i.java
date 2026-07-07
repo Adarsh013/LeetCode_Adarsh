@@ -1,33 +1,29 @@
 class Solution {
     public long sumAndMultiply(int n) {
         String s = String.valueOf(n);
-        StringBuilder x = new StringBuilder();
-
-        for (int i = 0; i < s.length(); i++) {
+        String x ="";
+        for(int i = 0; i<s.length(); i++){
             char c = s.charAt(i);
-            if (c != '0') {
-                x.append(c);
-            }
+            if(c != '0') x+=s.charAt(i);
+            else continue;
         }
 
-        if (x.length() == 0) {
-            return 0;
-        }
+        if(x.length() == 0) return 0;
+        long val = Long.parseLong(x);
+        long result = sum(val);
 
-        long val = Long.parseLong(x.toString());
-        long digitSum = sum(val);
-
-        return val * digitSum;
+        return val*result;
     }
 
-    long sum(long n) {
-        long res = 0;
+    long sum(long n){
 
-        while (n != 0) {
-            res += n % 10;
+        long rem = 0;
+        long res = 0;
+        while (n != 0){
+            rem = n % 10;
+            res = res + rem;
             n /= 10;
         }
-
         return res;
     }
 }
