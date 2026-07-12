@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0518-coin-change-ii) |
 | [1048-longest-string-chain](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1048-longest-string-chain) |
+| [1331-rank-transform-of-an-array](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1331-rank-transform-of-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0368-largest-divisible-subset) |
 | [1048-longest-string-chain](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1048-longest-string-chain) |
+| [1331-rank-transform-of-an-array](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1331-rank-transform-of-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0208-implement-trie-prefix-tree) |
 | [1048-longest-string-chain](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1048-longest-string-chain) |
+| [1331-rank-transform-of-an-array](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
