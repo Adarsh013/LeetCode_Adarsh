@@ -155,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
