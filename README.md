@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1331-rank-transform-of-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0368-largest-divisible-subset) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sorting
 |  |
@@ -159,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
