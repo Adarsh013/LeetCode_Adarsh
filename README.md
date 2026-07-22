@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0300-longest-increasing-subsequence) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
@@ -190,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
