@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0213-house-robber-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0300-longest-increasing-subsequence) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3532-path-existence-queries-in-a-graph-i) |
