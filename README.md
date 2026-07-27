@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1048-longest-string-chain) |
 | [1260-shift-2d-grid](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0628-maximum-product-of-three-numbers) |
 | [1048-longest-string-chain](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3536-maximum-product-of-two-digits) |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0918-maximum-sum-circular-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
