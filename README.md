@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0368-largest-divisible-subset) |
 | [0485-max-consecutive-ones](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0540-single-element-in-a-sorted-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0518-coin-change-ii) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0628-maximum-product-of-three-numbers) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/2591-distribute-money-to-maximum-children) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -260,4 +263,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
