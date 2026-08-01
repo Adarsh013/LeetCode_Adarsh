@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0918-maximum-sum-circular-subarray) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1048-longest-string-chain](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1048-longest-string-chain) |
 | [1260-shift-2d-grid](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3501-maximize-active-section-with-trade-ii) |
