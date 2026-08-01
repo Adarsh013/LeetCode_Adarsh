@@ -1,20 +1,29 @@
 class Solution {
     public boolean predictTheWinner(int[] nums) {
-        //       Start, end, p1 sum, p2 sum, p1 turn, array  
-        return dfs (0, nums.length -1, 0, 0, true, nums);
+
+        int n = nums.length;
+
+        int[][] dp = new int[n][n];
+
+        for(int[] i : dp){
+            Arrays.fill(i, -1);
+        }
+
+        return solve(0, n - 1, nums, dp) >= 0;
     }
 
-    boolean dfs(int left, int right, int p1Sum, int p2Sum, boolean turn, int[] nums){
+    int solve(int left, int right, int[] nums, int[][] dp) {
 
-        if(left > right) return p1Sum >= p2Sum;
+        if (left == right)
+            return nums[left];
 
-        if(turn){
-            return dfs(left+1, right, p1Sum+nums[left], p2Sum, false,nums) ||
-                   dfs(left, right-1, p1Sum+nums[right], p2Sum, false,nums);
-        }
-        else{
-            return dfs(left+1 , right, p1Sum, p2Sum+nums[left], true,nums) &&
-                   dfs(left, right-1, p1Sum, p2Sum+nums[right], true,nums);
-        }
+        if (dp[left][right] != -1)
+            return dp[left][right];
+
+        int takeLeft = nums[left] - solve(left + 1, right, nums, dp);
+
+        int takeRight = nums[right] - solve(left, right - 1, nums, dp);
+
+        return dp[left][right] = Math.max(takeLeft, takeRight);
     }
 }
