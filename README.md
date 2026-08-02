@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0918-maximum-sum-circular-subarray) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1048-longest-string-chain](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1048-longest-string-chain) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0583-delete-operation-for-two-strings) |
+| [0877-stone-game](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0918-maximum-sum-circular-subarray) |
 | [1048-longest-string-chain](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1092-shortest-common-supersequence) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0877-stone-game) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/2591-distribute-money-to-maximum-children) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -271,4 +274,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
