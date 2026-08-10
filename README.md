@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0115-distinct-subsequences) |
+| [0205-isomorphic-strings](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0208-implement-trie-prefix-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0583-delete-operation-for-two-strings) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0208-implement-trie-prefix-tree) |
 | [1048-longest-string-chain](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1331-rank-transform-of-an-array) |
