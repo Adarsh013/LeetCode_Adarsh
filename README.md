@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1539-kth-missing-positive-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0208-implement-trie-prefix-tree) |
 | [1048-longest-string-chain](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1331-rank-transform-of-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3731-find-missing-elements) |
