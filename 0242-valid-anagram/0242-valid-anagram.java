@@ -8,10 +8,10 @@ class Solution {
         int[] count = new int[128];
 
         for (int i = 0; i < s.length(); i++) {
-            count[s.charAt(i) - 'a']++;
-            count[t.charAt(i) - 'a' ]--;
-            // count[s.charAt(i)]++;
-            // count[t.charAt(i)]--;
+            // count[s.charAt(i) - 'a']++;
+            // count[t.charAt(i) - 'a' ]--;
+            count[s.charAt(i)]++;
+            count[t.charAt(i)]--;
         }
 
         for (int x : count) {
