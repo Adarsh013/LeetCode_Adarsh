@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0583-delete-operation-for-two-strings) |
 | [0796-rotate-string](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0796-rotate-string) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0628-maximum-product-of-three-numbers) |
 | [1048-longest-string-chain](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1048-longest-string-chain) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0242-valid-anagram) |
 | [1048-longest-string-chain](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
