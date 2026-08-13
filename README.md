@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0451-sort-characters-by-frequency) |
 | [1048-longest-string-chain](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1331-rank-transform-of-an-array) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Enumeration
 |  |
