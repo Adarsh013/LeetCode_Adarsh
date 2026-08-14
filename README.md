@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0075-sort-colors) |
+| [0876-middle-of-the-linked-list](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0876-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1048-longest-string-chain) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -373,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
