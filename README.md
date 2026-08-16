@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1539-kth-missing-positive-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2029-stone-game-ix](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/2029-stone-game-ix) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/2591-distribute-money-to-maximum-children) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1510-stone-game-iv) |
 | [1903-largest-odd-number-in-string](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/2029-stone-game-ix) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/2591-distribute-money-to-maximum-children) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2029-stone-game-ix](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Enumeration
 |  |
@@ -334,18 +338,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -354,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
