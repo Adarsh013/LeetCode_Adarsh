@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0918-maximum-sum-circular-subarray) |
+| [0930-binary-subarrays-with-sum](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0930-binary-subarrays-with-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1048-longest-string-chain](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1140-stone-game-ii) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0451-sort-characters-by-frequency) |
 | [0904-fruit-into-baskets](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0930-binary-subarrays-with-sum) |
 | [1048-longest-string-chain](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1386-cinema-seat-allocation) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0930-binary-subarrays-with-sum) |
 | [1140-stone-game-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1872-stone-game-viii) |
 ## Nim Game
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0930-binary-subarrays-with-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3090-maximum-length-substring-with-two-occurrences) |
