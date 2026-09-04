@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0155-min-stack) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Matrix
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0208-implement-trie-prefix-tree) |
 ## Trie
 |  |
