@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0628-maximum-product-of-three-numbers) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0930-binary-subarrays-with-sum) |
 | [1048-longest-string-chain](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1048-longest-string-chain) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Matrix
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Design
 |  |
