@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -504,9 +505,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0102-binary-tree-level-order-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0102-binary-tree-level-order-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
