@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0904-fruit-into-baskets) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0085-maximal-rectangle) |
+| [0835-image-overlap](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1260-shift-2d-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3568-minimum-moves-to-clean-the-classroom) |
