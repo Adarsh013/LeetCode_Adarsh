@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0009-palindrome-number) |
 | [0368-largest-divisible-subset](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0486-predict-the-winner) |
+| [0507-perfect-number](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0836-rectangle-overlap) |
