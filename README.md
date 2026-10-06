@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0009-palindrome-number) |
 | [0368-largest-divisible-subset](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0509-fibonacci-number) |
