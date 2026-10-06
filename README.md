@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0242-valid-anagram) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0876-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1048-longest-string-chain) |
