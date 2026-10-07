@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0451-sort-characters-by-frequency) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0102-binary-tree-level-order-traversal) |
+| [0301-remove-invalid-parentheses](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0301-remove-invalid-parentheses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/2685-count-the-number-of-complete-components) |
