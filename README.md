@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0368-largest-divisible-subset) |
 | [0485-max-consecutive-ones](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0485-max-consecutive-ones) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0451-sort-characters-by-frequency) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0208-implement-trie-prefix-tree) |
+| [0229-majority-element-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0451-sort-characters-by-frequency) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2029-stone-game-ix](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/2029-stone-game-ix) |
@@ -601,4 +605,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0509-fibonacci-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Adarsh013/LeetCode_Adarsh/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
