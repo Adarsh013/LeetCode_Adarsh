@@ -8,8 +8,9 @@ class Solution {
         int mini = (int) (n / 3) + 1;
 
         for (int i = 0; i < n; i++) {
-            int value = mpp.getOrDefault(nums[i], 0);
-            mpp.put(nums[i], value + 1);
+            // int value = mpp.getOrDefault(nums[i], 0);
+            // mpp.put(nums[i], value + 1);
+            mpp.put(nums[i], mpp.getOrDefault(nums[i],0) + 1);
 
             if (mpp.get(nums[i]) == mini) {
                 ls.add(nums[i]);
